@@ -1,4 +1,4 @@
-# Лабораторная работа №3
+# Лабораторная работа №2
 Отчет - [report.pdf](https://github.com/SinimaWath/TMO_labs/blob/master/lab2/report.pdf)
 
 Ноутбук - [lab_2.ipynb](https://github.com/SinimaWath/TMO_labs/blob/master/lab2/lab_2.ipynb)
